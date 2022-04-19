@@ -1,0 +1,10 @@
+C:\Users\oibiang\source\repos\WinServiceElev8\bin\Debug\WinServiceElev8.exe.config
+C:\Users\oibiang\source\repos\WinServiceElev8\bin\Debug\WinServiceElev8.exe
+C:\Users\oibiang\source\repos\WinServiceElev8\bin\Debug\WinServiceElev8.pdb
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.ProjectInstaller.resources
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.Elev8Service.resources
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.csproj.GenerateResource.cache
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.csproj.CoreCompileInputs.cache
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.exe
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.pdb
+C:\Users\oibiang\source\repos\WinServiceElev8\obj\Debug\WinServiceElev8.csprojAssemblyReference.cache
